@@ -2,10 +2,10 @@
 
 namespace LineComaprisonProblem
 {
-    public class EqualityOfLines
+    public class CompareTwoLines
     {
         int lengthX,_lengthY,lenGthsX,lengthsY;
-        public EqualityOfLines(int lengthX, int lengthY, int lengthsX, int lengthsY)
+        public CompareTwoLines(int lengthX, int lengthY, int lengthsX, int lengthsY)
         {
             this.lengthX = lengthX;
             _lengthY = lengthY;
